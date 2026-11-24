@@ -12,8 +12,6 @@ Backend engineer with 8+ years in Python and .NET, now focused on AWS serverless
 
 - 🛠️ 8+ years of backend work, mostly in Python and .NET
 - ☁️ Focused on AWS serverless and AI agents / RAG
-- 🤖 At work, I built an agentic system on AWS Bedrock AgentCore that queries several services and merges the results into one response, with monitoring in place
-- 🔨 Currently building an AI workflow automation engine on AWS, exposed as MCP tools
 - 📚 Preparing for the AWS Certified Generative AI Developer - Professional exam
 - 🏅 AWS Certified AI Practitioner · AWS Certified Cloud Practitioner
 - 🎓 BSc Computing Science, Simon Fraser University
